@@ -43,7 +43,7 @@ ARモードに切り替え後、カメラを床面に向けながら並進移動
 
 - ARモード
 	- Android ARCore + Chromeブラウザ (Google Pixelで確認済)
-  - iOS ARKit + WebXR Viewer（iPad 第6世代で確認済。WebXR Viewer以外のブラウザでは動作しません）
+	  - iOS ARKit + WebXR Viewer（iPad 第6世代で確認済。WebXR Viewer以外のブラウザでは動作しません）
 	
 - HoloLensモード (実質VRモードですが、最新のThree.jsでは動作しないため、旧実装を使用しています)
 	- HoloLens + Edgeブラウザ　(※光学シースルーによるAR環境になります)
